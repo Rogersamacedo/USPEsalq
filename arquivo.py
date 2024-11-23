@@ -6,3 +6,7 @@ Created on Sat Nov 23 10:29:09 2024
 """
 
 #Versao 01#
+
+#Versao 02#
+
+#Versao 03#
